@@ -3,14 +3,6 @@
 // Configuration
 require_once 'config.php'; 
 
-// Autoloading Classes (adjust if not using Composer)
-function __autoload($className) {
-    $filename = "classes/" . $className . ".php";
-    if (file_exists($filename)) {
-        require_once $filename;
-    }
-}
-
 // Routing (Very basic example)
 $requestURI = explode('/', $_SERVER['REQUEST_URI']);
 $scriptName = explode('/', $_SERVER['SCRIPT_NAME']);
