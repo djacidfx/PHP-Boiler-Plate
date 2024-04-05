@@ -1,4 +1,4 @@
-##a basic PHP boilerplate structure along with explanations and ideas for enhancement.
+## A basic PHP boilerplate structure along with explanations and ideas for enhancement.
 
 **Explanation**
 
