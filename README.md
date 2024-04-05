@@ -52,7 +52,8 @@ PHP (Hypertext Preprocessor) is a versatile and widely-used server-side scriptin
 
 ## Getting Started
 
-To start experimenting with PHP, you'll need a local development environment. Software packages like XAMPP or MAMP make it easy to set up a web server, database, and PHP on your computer.
-The Power of PHP in Your Hands
+To start experimenting with PHP, you'll need a local development environment. Software packages like XAMPP or MAMP make it easy to set up a web server, database, and PHP on your computer. I use Ubuntu Desktop and Ubuntu Server to develop my projects, I find it the perfect development environment for a lot of programming languages
+
+## The Power of PHP in Your Hands
 
 PHP offers a powerful foundation for web development, whether you're building simple websites or complex applications. The abundance of free learning resources makes it accessible to anyone.  Start exploring today and bring your web development ideas to life!
